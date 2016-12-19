@@ -1,0 +1,10 @@
+.key_nav_marker {
+    padding: 1px 1px;
+    border: solid #a50003;
+    border-radius: 10px;
+}
+.key_nav_marker_selected {
+    border: solid #ff9b00;
+    background-color: #a86b00;
+    color: black;
+}
